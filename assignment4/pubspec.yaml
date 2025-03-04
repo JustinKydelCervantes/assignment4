@@ -55,12 +55,14 @@ flutter:
     - asset/audio/fall.mp3    
     - asset/audio/hold.mp3    
     - asset/audio/love.mp3    
+    - asset/audio/cant.mp3    
     - asset/image/lehi.jpg    
     - asset/image/tell.jpg    
     - asset/image/fall.jpg    
     - asset/image/hold.jpg    
     - asset/image/love.jpg    
-  #   - images/a_dot_ham.jpeg
+    - asset/image/cant.png    
+  #   - images/a_dot_ham.jpegc:\Users\asus\Downloads\Paul Kim  Cant Get Over You (좋아해요) [Queen of Tears OST Part 6] [RomEng Lyric].mp3
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/to/resolution-aware-images
   # For details regarding adding assets from package dependencies, see

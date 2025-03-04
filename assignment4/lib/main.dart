@@ -54,7 +54,12 @@ class _DisplayScreenState extends State<DisplayScreen> {
         title: "Love You With All My Heart",
         songAsset: "asset/audio/love.mp3",
         img: "asset/image/love.jpg",
-        author: "Crush")
+        author: "Crush"),
+    Songs(
+        title: "Can't Get Over You",
+        songAsset: "asset/audio/cant.mp3", 
+        img: "asset/image/cant.png", 
+        author: "Paul Kim")
   ];
 
   @override
